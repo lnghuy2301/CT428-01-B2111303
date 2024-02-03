@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+    color: gainsboro;
+}
+
+.container{
+    background-color: #5EBCF7;
+    width: 40%;
+    height: 85vh;
+    border: 6px solid #5EE0F7;
+    border-radius: 6em;
+    margin: auto;
+    padding: 2em 0;
+    font-size: 18px;
+}
+
+hr{
+    width: 10%;
+}
+
